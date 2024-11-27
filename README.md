@@ -1,6 +1,8 @@
 # TrabalhoDeProgDispMoveis
 Trabalho final de Programação para Dispositivos Móveis
 
+Link para o vídeo de apresentação: 
+
 ToDoApp
 
 Rodrigo Hideho Kamada Tanaka - 2020.1904.035-0
